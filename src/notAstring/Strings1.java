@@ -16,7 +16,7 @@ public class Strings1 {
 	{
 		String case1 = "going to happen";
 		String case2 = "a";
-		String case3 = "not intrested";
+		String case3 = "not intreste";
 		String expected1 = "not going to happen";
 		String expected2 = "not a";
 		String expected3 = "not intrested";
